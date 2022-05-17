@@ -1,4 +1,3 @@
 # Stem-training
 ## Day one
-Learning markdown
-Installing python
+Learning markdown installing python
