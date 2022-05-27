@@ -8,6 +8,8 @@ Building a simple calculator and complex calculator
 ##Day 4
 Learning about control flow, if statements, else and elif, 
 ##day 5
-list turples
+Kuccps mentoring 
 ##day 6
-dictionaries and opening files
+Lists and turples
+##day 7
+dictionaries 
