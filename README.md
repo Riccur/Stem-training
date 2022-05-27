@@ -13,3 +13,5 @@ Kuccps mentoring
 Lists and turples
 ##day 7
 dictionaries 
+##day 8
+Object oriented programming 
