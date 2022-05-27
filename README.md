@@ -5,13 +5,13 @@ Learning markdown installing python
 Manipulating data in python
 ## Day 3
 Building a simple calculator and complex calculator
-##Day 4
+## Day 4
 Learning about control flow, if statements, else and elif, 
-##day 5
+## day 5
 Kuccps mentoring 
-##day 6
+## day 6
 Lists and turples
-##day 7
+## day 7
 dictionaries 
-##day 8
+## day 8
 Object oriented programming 
